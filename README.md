@@ -8,7 +8,7 @@
 
 * [Тест-кейсы в TestIT](https://docs.google.com/spreadsheets/d/1OvkNekcVtzPH0IcUc_l36xRBoS4774gNNaximnNwf4g/edit?gid=183225190#gid=183225190) - покрытие ключевых сценариев
 
-* [Баг-репорты в YiuTrack](https://drive.google.com/drive/folders/1BG3Hcu12zlLimkSTMQC-HJh2nXPCU3my) - пример найденных дефектов 
+* [Баг-репорты в Jira](https://drive.google.com/drive/folders/1BG3Hcu12zlLimkSTMQC-HJh2nXPCU3my) - пример найденных дефектов 
 
 * [Тестирование API в Postman](https://github.com/dmatyash/api_testing/blob/main/README.md) - проверка REST-эндпоинтов
 
